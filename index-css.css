@@ -1,3 +1,6 @@
 .tryclass{
     color:rgb(196, 122, 122);
 }
+ul{
+    list-style: none;
+}
